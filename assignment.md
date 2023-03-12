@@ -10,6 +10,8 @@ Assignment:
 - Use Docker to create a container image of the "Hello World" application.
 - Use the command line to run the container and verify that the application works as expected.
 
+You may not complete everything and thats ok!
+
 ### Submission 
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
