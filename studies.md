@@ -10,7 +10,8 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Readings
 
-- add links
+- https://docker-curriculum.com/
+- https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/
 
 ### Helpful Links (References)
 
